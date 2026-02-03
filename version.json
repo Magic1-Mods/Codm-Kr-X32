@@ -5,8 +5,8 @@
     "what's new": "- new tab added\n- Fix touch issues\n- added key system"
   },
   "64bit": {
-    "version number": "2.0.5", 
-    "libname": "libPrexido_64.so",
+    "version number": "2.0.6", 
+    "libname": "libPrexido.so",
     "what's new": "- New features added \n- Added Skin Hacks \n- Bug fixes"
   }
 }
